@@ -3,9 +3,35 @@
 Java와 Spring을 중심으로 웹 백엔드 개발을 학습하고 있습니다.  
 기능 구현에 그치지 않고, **왜 이런 구조를 선택했는지 설명할 수 있는 개발자**를 목표로 하고 있습니다.
 
-팀 프로젝트와 개인 학습을 통해  
-인증/인가, 데이터 모델링, 상태 관리, 협업 과정까지 경험하며  
-꾸준히 성장하고 있습니다.
+Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원칙을 준수하며 코드를 작성하기 위해 노력하고 있습니다.
+
+---
+
+## 💼 Experience
+
+### **East Lab**
+> **Backend Developer Intern** | 2026.02 - 2026.03
+- 실무 환경에서의 백엔드 시스템 운영 및 프로세스 학습
+#### **프로젝트 목표**
+* **비즈니스 데이터 시각화**: 대규모 고객 데이터를 체계적으로 관리하고 대시보드 형태로 시각화하여 의사결정 효율성 증대
+* **엔드투엔드(End-to-End) 구현**: 백엔드 API 설계부터 프론트엔드 UI, CI/CD 배포 파이프라인까지 전체 스택의 기술적 완성도 확보
+
+#### **💻 개발 내용**
+* **Backend & Security**
+    * **FastAPI & SQLAlchemy** 를 활용한 비동기 기반 고성능 RESTful API 설
+    * **FastAPI & SQLAlchemy**를 활용한 비동기 기반 고성능 RESTful API 설계 및 구축
+    * **PostgreSQL**을 이용한 비즈니스 데이터 모델링 및 효율적인 관계 매핑
+* **Frontend & State Management**
+    * **React & TypeScript**를 사용하여 타입 안정성이 확보된 대시보드 UI 개발
+    * **Zustand** 기반의 전역 상태 관리를 통해 대시보드 내 실시간 데이터 동기화 최적화
+* **Infra & DevOps**
+    * **GitHub Actions**를 활용한 자동화된 CI/CD 파이프라인 구축
+    * **Vercel**(Front-end)과 **Render**(Back-end)를 활용한 전략적 배포 및 운영
+      
+#### **📈 주요 성과**
+* **Full-stack Ownership**: DB 설계, 백/프론트 개발, 인프라 배포
+* **비즈니스 로직 최적화**: 복잡한 KPI 산출 로직을 백엔드에서 처리하여 데이터 정확도를 향상시키고 사용자 경험(UX) 개선
+* **확장성 있는 코드 구조**: 계층 간 관심사를 분리하여 기능 추가 및 변경 시 사이드 이펙트를 최소화하는 클린 코드 원칙 준수
 
 ---
 
@@ -15,6 +41,7 @@ Java와 Spring을 중심으로 웹 백엔드 개발을 학습하고 있습니다
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%23007ACC?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🛡️ Security & Auth
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -28,6 +55,8 @@ Java와 Spring을 중심으로 웹 백엔드 개발을 학습하고 있습니다
 ![AWS](https://img.shields.io/badge/AWS-232F2E?style=flat&logo=amazon-aws)
 ![EC2](https://img.shields.io/badge/EC2-F58536?style=flat&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### 🛠️ Frontend & ETC
