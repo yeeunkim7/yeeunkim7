@@ -42,6 +42,7 @@ Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원�
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%23007ACC?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005850?style=flat&logo=fastapi&logoColor=white)
 
 ### 🛡️ Security & Auth
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -57,7 +58,7 @@ Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원�
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### 🛠️ Frontend & ETC
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
