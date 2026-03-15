@@ -11,7 +11,10 @@ Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원�
 
 ### **East Lab**
 > **Backend Developer Intern** | 2026.02 - 2026.03
-- 실무 환경에서의 백엔드 시스템 운영 및 프로세스 학습
+- EST-CRM-Dashboard 구축: 엑셀 기반의 영업/매출 관리 프로세스를 대시보드 시스템으로 완전 자동화
+- Full-stack Ownership: DB 설계부터 백엔드 API, 프론트엔드 UI, 배포까지 전 과정 1인 전담 개발
+
+
 #### **프로젝트 목표**
 * **비즈니스 데이터 시각화**: 대규모 고객 데이터를 체계적으로 관리하고 대시보드 형태로 시각화하여 의사결정 효율성 증대
 * **엔드투엔드(End-to-End) 구현**: 백엔드 API 설계부터 프론트엔드 UI, CI/CD 배포 파이프라인까지 전체 스택의 기술적 완성도 확보
@@ -28,11 +31,15 @@ Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원�
     * **GitHub Actions**를 활용한 자동화된 CI/CD 파이프라인 구축
     * **Vercel**(Front-end)과 **Render**(Back-end)를 활용한 전략적 배포 및 운영
       
-#### **📈 주요 성과**
-* **Full-stack Ownership**: DB 설계, 백/프론트 개발, 인프라 배포
-* **비즈니스 로직 최적화**: 복잡한 KPI 산출 로직을 백엔드에서 처리하여 데이터 정확도를 향상시키고 사용자 경험(UX) 개선
-* **확장성 있는 코드 구조**: 계층 간 관심사를 분리하여 기능 추가 및 변경 시 사이드 이펙트를 최소화하는 클린 코드 원칙 준수
+#### **📈 핵심 구현 내용 **
+* **매핑 엔진**: 계정 코드와 코스트 센터(부서) 정보를 기준으로 원장 데이터를 KPI 카테고리에 자동 매
+* **드릴다운(Drill-down) 기능**: 요약 지표 클릭 시 상세 원장 리스트 및 수기 보정액을 합산하여 조회하는 모달 UI 구현
+* **리포트 내보내기**: html2canvas 기반 PDF 다운로드 기능 구현 및 CSS 컬러 스페이스(oklch) 정규화를 통한 렌더링 결함 해결
+* **마감(Lock) 시스템**: 월별 데이터 마감 기능을 통해 매핑 정보가 변경되어도 과거 데이터의 스냅샷 유지가 가능하도록 설계
 
+**📊 성과**
+- 기존 엑셀 수기 집계 대비 업무 시간 대폭 단축
+- 기능 명세서 기반 필수 핵심 기능(A등급) 구현 완 및 프로덕션 빌드 성공
 ---
 
 ## 🛠️ 기술 스택
@@ -132,12 +139,6 @@ Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원�
 
 **🔗 GitHub**
 - https://github.com/yeeunkim7/react-sns-practice
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeunkim7&show_icons=true&theme=tokyonight)
 
 ---
 
