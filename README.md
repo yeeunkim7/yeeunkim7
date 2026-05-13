@@ -21,7 +21,6 @@ Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원�
 
 #### **💻 개발 내용**
 * **Backend & Security**
-    * **FastAPI & SQLAlchemy** 를 활용한 비동기 기반 고성능 RESTful API 설
     * **FastAPI & SQLAlchemy**를 활용한 비동기 기반 고성능 RESTful API 설계 및 구축
     * **PostgreSQL**을 이용한 비즈니스 데이터 모델링 및 효율적인 관계 매핑
 * **Frontend & State Management**
