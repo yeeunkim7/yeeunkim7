@@ -1,9 +1,9 @@
 # 👋 안녕하세요, 백엔드 개발자 김예은입니다
 
-Java와 Spring을 중심으로 웹 백엔드 개발을 학습하고 있습니다.  
-기능 구현에 그치지 않고, **왜 이런 구조를 선택했는지 설명할 수 있는 개발자**를 목표로 하고 있습니다.
-
-Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원칙을 준수하며 코드를 작성하기 위해 노력하고 있습니다.
+Java/Spring Boot 백엔드 개발자입니다.
+EST Lab 인턴십에서 ERP 대시보드를 1인 풀스택으로 
+설계부터 실서비스 배포까지 완료했습니다.
+회계 실무 4년의 데이터 정합성 감각을 백엔드 설계에 적용합니다.
 
 ---
 
@@ -37,7 +37,7 @@ Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원�
 * **마감(Lock) 시스템**: 월별 데이터 마감 기능을 통해 매핑 정보가 변경되어도 과거 데이터의 스냅샷 유지가 가능하도록 설계
 
 **📊 성과**
-- 기존 엑셀 수기 집계 대비 업무 시간 대폭 단축
+- 50MB xlsx → DB 자동 적재 처리 시간 5초 이내 달성. 월간 수작업 집계 업무 완전 자동화 (기존 수시간 → 자동화)
 - 기능 명세서 기반 필수 핵심 기능(A등급) 구현 완 및 프로덕션 빌드 성공
 ---
 
@@ -138,6 +138,16 @@ Java의 **계층형 아키텍처(Layered Architecture)**와 **Clean Code** 원�
 
 **🔗 GitHub**
 - https://github.com/yeeunkim7/react-sns-practice
+
+## 🚀 현재 진행 중
+
+### Ready-Hire - AI 모의면접 서비스 (개발 중)
+> Spring Boot 3.x + GPT-4o-mini 기반 실서비스 출시 목표
+
+- 무료/유료 구독 모델 (포트원 결제 연동)
+- JWT + Google OAuth2 인증
+- 하루 3회 무료 제한 / PRO 플랜 무제한
+- Google Play / App Store 출시 예정
 
 ---
 
