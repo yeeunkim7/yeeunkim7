@@ -156,6 +156,7 @@ Entity 변환
 Transaction 기반 DB 적재
       ↓
 일별 / 월별 집계 조회
+```
 
 ---
 
